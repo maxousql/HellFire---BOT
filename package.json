@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet BOT Discord",
+  "main": "main.js",
+  "repository": "https://github.com/maxousql/HellFire---BOT.git",
+  "author": "maxousql <maxlaiyio@outlook.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
